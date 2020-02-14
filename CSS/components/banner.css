@@ -1,0 +1,13 @@
+.banner{
+	background-image: url("../../images-clement/background1.jpg");
+	background-size: cover;
+	padding: 150px 0px;
+	background-position: center;
+}
+.banner h1{
+color:white;
+margin-top: 200px;
+}
+.banner h2{
+color:white;
+}
